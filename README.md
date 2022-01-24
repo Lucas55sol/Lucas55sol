@@ -2,7 +2,7 @@
   
 # Hi, I am Arcus 👋
   
-![is image](https://firebasestorage.googleapis.com/v0/b/my-imges-2dd0f.appspot.com/o/fotos%2Farcus.png?alt=media&token=919d4dde-845a-436f-805a-5bd2aa12636e)
+![is image](https://firebasestorage.googleapis.com/v0/b/my-imges-2dd0f.appspot.com/o/fotos%2Farcus-removebg-preview.png?alt=media&token=fae0486b-5d20-48cd-9f43-02b9ca41d7dd)
   
 ### Hello my name is Arcus, I am 21 years old. I really like web development plus the front-end part<br> and I enjoy designing pages in my free time.For design and layout it is like having a book without <br> letters in which you give it meaning in order to create your own story.
   
