@@ -15,7 +15,7 @@
   * #### <img src="https://firebasestorage.googleapis.com/v0/b/my-imges-2dd0f.appspot.com/o/fotos%2Fbootstrap.png?alt=media&token=07413f54-273a-4e1b-9d22-ec0276be4b28" width="20"> **Bootstrap**
 
 # :computer: Others kills
-* ### <img src="https://firebasestorage.googleapis.com/v0/b/my-imges-2dd0f.appspot.com/o/fotos%2Fimages-removebg-preview.png?alt=media&token=cd159c66-3ad6-49b0-a50d-f4cd947f4389" width="25"> **GIT/GITHUB**
+* ### <img src="https://firebasestorage.googleapis.com/v0/b/my-imges-2dd0f.appspot.com/o/fotos%2Fimages-removebg-preview.png?alt=media&token=cd159c66-3ad6-49b0-a50d-f4cd947f4389" width="25"> **GIT / GITHUB**
 
 <div align="center">
   
